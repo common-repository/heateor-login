@@ -1,0 +1,637 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Heateor Facebook Login\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-02 14:17+0530\n"
+"PO-Revision-Date: 2020-12-28 13:48+0530\n"
+"Last-Translator: Heateor <hello@heateor.com>\n"
+"Language-Team: Heateor <hello@heateor.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/help.php:3
+msgid "About"
+msgstr ""
+
+#: ../admin/help.php:3
+msgid "Version"
+msgstr ""
+
+#: ../admin/help.php:5 ../admin/options-page.php:1
+msgid "Heateor Login"
+msgstr ""
+
+#: ../admin/help.php:16
+msgid "Donate Now"
+msgstr ""
+
+#: ../admin/help.php:22 ../admin/options-page.php:30
+msgid "Customize Facebook Login Icon"
+msgstr ""
+
+#: ../admin/help.php:28
+msgid "Customize Social Login Icons"
+msgstr ""
+
+#: ../admin/help.php:34
+msgid "Translate Plugin"
+msgstr ""
+
+#: ../admin/help.php:40
+msgid "Boost sharing by awarding points"
+msgstr ""
+
+#: ../admin/help.php:46
+msgid "Other Plugins"
+msgstr ""
+
+#: ../admin/help.php:52
+msgid "Support Forum"
+msgstr ""
+
+#: ../admin/help.php:57
+msgid "Need Help?"
+msgstr ""
+
+#: ../admin/help.php:59
+msgid ""
+"If you <strong>have any query</strong>, need help regarding <strong>plugin "
+"setup</strong>, want <strong>custom features</strong> in the plugin or "
+"<strong>have any suggestion</strong> to improve the plugin, just drop an "
+"email at <a href=\"mailto:support@heateor.com\">support@heateor.com</a>"
+msgstr ""
+
+#: ../admin/help.php:64
+msgid "Testimonial"
+msgstr ""
+
+#: ../admin/help.php:66
+msgid ""
+"You can send us testimonial at <a href=\"mailto:testimonials@heateor.com"
+"\">testimonials@heateor.com</a>"
+msgstr ""
+
+#: ../admin/help.php:71
+msgid "Support Us"
+msgstr ""
+
+#: ../admin/help.php:74 ../admin/help.php:77 ../admin/help.php:78
+#: ../admin/help.php:79 ../admin/help.php:80 ../admin/help.php:81
+msgid "Rate 5-star"
+msgstr ""
+
+#: ../admin/options-page.php:5 ../admin/options-page.php:489
+#: ../admin/options-page.php:638
+#, php-format
+msgid ""
+"You can appreciate the effort put in this free plugin by rating it <a href="
+"\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: ../admin/options-page.php:15 ../admin/options-page.php:26
+msgid "Basic Configuration"
+msgstr ""
+
+#: ../admin/options-page.php:16 ../admin/options-page.php:502
+#: ../heateor-login.php:134
+msgid "GDPR"
+msgstr ""
+
+#: ../admin/options-page.php:17 ../admin/options-page.php:655
+msgid "Shortcode & Widget"
+msgstr ""
+
+#: ../admin/options-page.php:18 ../admin/options-page.php:674
+msgid "FAQ"
+msgstr ""
+
+#: ../admin/options-page.php:34
+msgid "Disable user registration via Facebook Login"
+msgstr ""
+
+#: ../admin/options-page.php:45
+msgid ""
+"After enabling this option, new users will not be able to login through "
+"Facebook Login. Only existing users will be able to Facebook Login."
+msgstr ""
+
+#: ../admin/options-page.php:53
+msgid "Redirection url"
+msgstr ""
+
+#: ../admin/options-page.php:64
+msgid ""
+"User will be redirected to this page after unsuccessful registration attempt "
+"via Facebook Login. You can specify the url of registration form or of a "
+"page showing message regarding disabled registration through Facebook Login."
+msgstr ""
+
+#: ../admin/options-page.php:71
+msgid "Facebook App ID"
+msgstr ""
+
+#: ../admin/options-page.php:82
+#, php-format
+msgid ""
+"Required for Facebook Login to work. Please follow the documentation at <a "
+"href=\"%s\" target=\"_blank\">this link</a> to get Facebook App ID"
+msgstr ""
+
+#: ../admin/options-page.php:89
+msgid "Facebook App Secret"
+msgstr ""
+
+#: ../admin/options-page.php:100
+#, php-format
+msgid ""
+"Required for Facebook Login to work. Please follow the documentation at <a "
+"href=\"%s\" target=\"_blank\">this link</a> to get Facebook App Secret"
+msgstr ""
+
+#: ../admin/options-page.php:108
+msgid "Title"
+msgstr ""
+
+#: ../admin/options-page.php:119
+msgid "Text to display above the Facebook Login icon"
+msgstr ""
+
+#: ../admin/options-page.php:128
+msgid "Trigger Facebook Login in the same browser tab"
+msgstr ""
+
+#: ../admin/options-page.php:139
+msgid ""
+"Trigger Facebook Login in the same browser tab instead of a popup window"
+msgstr ""
+
+#: ../admin/options-page.php:147
+msgid "Center align"
+msgstr ""
+
+#: ../admin/options-page.php:158
+msgid "Center align Facebook Login icon"
+msgstr ""
+
+#: ../admin/options-page.php:165
+msgid "Enable at login page"
+msgstr ""
+
+#: ../admin/options-page.php:176
+msgid "Integrate Facebook Login at the login page of your website"
+msgstr ""
+
+#: ../admin/options-page.php:183
+msgid "Enable at register page"
+msgstr ""
+
+#: ../admin/options-page.php:194
+msgid "Integrate Facebook Login at registration page of your website"
+msgstr ""
+
+#: ../admin/options-page.php:201
+msgid "Enable at comment form"
+msgstr ""
+
+#: ../admin/options-page.php:212
+msgid "Integrate Facebook Login interface at comment form"
+msgstr ""
+
+#: ../admin/options-page.php:225
+msgid "Enable before WooCommerce Customer Login Form"
+msgstr ""
+
+#: ../admin/options-page.php:235
+msgid ""
+"Integrate Facebook Login button before customer login form at WooCommerce My "
+"Account page"
+msgstr ""
+
+#: ../admin/options-page.php:242
+msgid "Enable at WooCommerce Customer Login Form"
+msgstr ""
+
+#: ../admin/options-page.php:252
+msgid ""
+"Integrate Facebook Login button with customer login form at WooCommerce My "
+"Account page"
+msgstr ""
+
+#: ../admin/options-page.php:259
+msgid "Enable at WooCommerce Customer Register Form"
+msgstr ""
+
+#: ../admin/options-page.php:269
+msgid ""
+"Integrate Facebook Login button with customer register form at WooCommerce "
+"My Account page"
+msgstr ""
+
+#: ../admin/options-page.php:276
+msgid "Enable at WooCommerce checkout page"
+msgstr ""
+
+#: ../admin/options-page.php:286
+msgid "Integrate Facebook Login button with WooCommerce checkout page"
+msgstr ""
+
+#: ../admin/options-page.php:296
+msgid "Enable social avatar"
+msgstr ""
+
+#: ../admin/options-page.php:307
+msgid ""
+"Social profile picture of the logged in user will be displayed as profile "
+"avatar"
+msgstr ""
+
+#: ../admin/options-page.php:314
+msgid "Avatar quality"
+msgstr ""
+
+#: ../admin/options-page.php:318
+msgid "Average"
+msgstr ""
+
+#: ../admin/options-page.php:320
+msgid "Best"
+msgstr ""
+
+#: ../admin/options-page.php:327
+msgid "Choose avatar quality"
+msgstr ""
+
+#: ../admin/options-page.php:334
+msgid "E-mail required"
+msgstr ""
+
+#: ../admin/options-page.php:345
+msgid ""
+"If enabled and Social ID provider does not provide users email address on "
+"login, user will be asked to provide his/her email address. Otherwise, a "
+"dummy email will be generated"
+msgstr ""
+
+#: ../admin/options-page.php:353
+msgid "Text on 'Email required' popup"
+msgstr ""
+
+#: ../admin/options-page.php:364
+msgid ""
+"This text will be displayed on email required popup. Leave empty if not "
+"required."
+msgstr ""
+
+#: ../admin/options-page.php:371
+msgid "Send post-registration email to user to set account password"
+msgstr ""
+
+#: ../admin/options-page.php:382
+msgid ""
+"If enabled, an email will be sent to user after registration through "
+"Facebook Login, regarding his/her login credentials (username-password to be "
+"able to login via traditional login form)"
+msgstr ""
+
+#: ../admin/options-page.php:389
+msgid "Send new user registration notification email to admin"
+msgstr ""
+
+#: ../admin/options-page.php:400
+msgid ""
+"If enabled, an email will be sent to admin after new user registers through "
+"Facebook Login, notifying admin about the new user registration"
+msgstr ""
+
+#: ../admin/options-page.php:407
+msgid "Login redirection"
+msgstr ""
+
+#: ../admin/options-page.php:411
+msgid "Same page from where user logged in"
+msgstr ""
+
+#: ../admin/options-page.php:412 ../admin/options-page.php:435
+msgid "Homepage"
+msgstr ""
+
+#: ../admin/options-page.php:413 ../admin/options-page.php:437
+msgid "Account dashboard"
+msgstr ""
+
+#: ../admin/options-page.php:414 ../admin/options-page.php:439
+msgid "Custom Url"
+msgstr ""
+
+#: ../admin/options-page.php:422
+msgid "User will be redirected to the selected page after Facebook Login"
+msgstr ""
+
+#: ../admin/options-page.php:429
+msgid "Registration redirection"
+msgstr ""
+
+#: ../admin/options-page.php:433
+msgid "Same page from where user registered"
+msgstr ""
+
+#: ../admin/options-page.php:447
+msgid ""
+"User will be redirected to the selected page after registration (first "
+"Facebook Login) through Facebook Login"
+msgstr ""
+
+#: ../admin/options-page.php:454
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/options-page.php:464
+msgid "You can specify any additional CSS rules (without &lt;style&gt; tag)"
+msgstr ""
+
+#: ../admin/options-page.php:471
+msgid "Delete all the options on plugin deletion"
+msgstr ""
+
+#: ../admin/options-page.php:482
+msgid ""
+"If enabled, plugin options will get deleted when plugin is deleted/"
+"uninstalled and you will need to reconfigure the options when you install "
+"the plugin next time."
+msgstr ""
+
+#: ../admin/options-page.php:487 ../admin/options-page.php:636
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/options-page.php:507
+msgid "Enable GDPR opt-in"
+msgstr ""
+
+#: ../admin/options-page.php:518
+msgid ""
+"Enable it to show GDPR opt-in for Facebook Login and social account linking"
+msgstr ""
+
+#: ../admin/options-page.php:526
+msgid "Placement of GDPR opt-in"
+msgstr ""
+
+#: ../admin/options-page.php:531
+msgid "Above Facebook Login icon"
+msgstr ""
+
+#: ../admin/options-page.php:533
+msgid "Below Facebook Login icon"
+msgstr ""
+
+#: ../admin/options-page.php:539
+msgid "Placement of GDPR opt-in above or below the Facebook Login icon"
+msgstr ""
+
+#: ../admin/options-page.php:546
+msgid "Opt-in text"
+msgstr ""
+
+#: ../admin/options-page.php:557
+msgid "Text for the GDPR opt-in"
+msgstr ""
+
+#: ../admin/options-page.php:564
+msgid "Text to link to Terms-Conditions page"
+msgstr ""
+
+#: ../admin/options-page.php:575
+msgid "Word(s) in the opt-in text to be linked to terms-conditions page"
+msgstr ""
+
+#: ../admin/options-page.php:582
+msgid "Terms-Conditions Url"
+msgstr ""
+
+#: ../admin/options-page.php:593
+msgid "Url of the terms-conditions page of your website"
+msgstr ""
+
+#: ../admin/options-page.php:600
+msgid "Text to link to Privacy Policy page"
+msgstr ""
+
+#: ../admin/options-page.php:611
+msgid "Word(s) in the opt-in text to be linked to privacy policy page"
+msgstr ""
+
+#: ../admin/options-page.php:618
+msgid "Privacy Policy Url"
+msgstr ""
+
+#: ../admin/options-page.php:629
+msgid "Url of the privacy policy page of your website"
+msgstr ""
+
+#: ../admin/options-page.php:642 ../admin/options-page.php:661
+#: ../admin/options-page.php:688
+msgid "Instagram Shoutout"
+msgstr ""
+
+#: ../admin/options-page.php:644 ../admin/options-page.php:663
+#: ../admin/options-page.php:690
+msgid ""
+"If you can send (to hello@heateor.com) how this plugin is helping your "
+"business, we would be glad to shoutout on Instagram. You can also send any "
+"relevant hashtags and people to mention in the Instagram post."
+msgstr ""
+
+#: ../admin/options-page.php:657
+msgid " Facebook Login Shortcode & Widget"
+msgstr ""
+
+#: ../admin/options-page.php:676
+msgid ""
+"<strong>Note:</strong> Plugin will not work on local server. You should have "
+"an online website for the plugin to function properly."
+msgstr ""
+
+#: ../admin/options-page.php:678
+msgid "Why is Facebook Login not working?"
+msgstr ""
+
+#: ../admin/options-page.php:679
+msgid ""
+"Make sure that App ID and Secret( Client ID and Secret) keys you have saved, "
+"belong to the same app"
+msgstr ""
+
+#: ../admin/options-page.php:681
+msgid "Facebook Login not working with Varnish enabled"
+msgstr ""
+
+#: ../admin/options-page.php:682
+msgid ""
+"Why the user is not appearing logged in even after Facebook Login until the "
+"webpage is refreshed manually?"
+msgstr ""
+
+#: ../admin/options-page.php:683
+msgid "Is this plugin GDPR compliant?"
+msgstr ""
+
+#: ../heateor-login.php:66 ../heateor-login.php:754
+msgid "Login with Facebook"
+msgstr ""
+
+#: ../heateor-login.php:137
+msgid ""
+"I agree to my personal data being stored and used as per Privacy Policy and "
+"Terms and Conditions"
+msgstr ""
+
+#: ../heateor-login.php:141
+msgid ""
+"I revoke my consent to store and use my personal data. Kindly delete my "
+"personal data saved in this website."
+msgstr ""
+
+#: ../heateor-login.php:150
+msgid "Social Avatar"
+msgstr ""
+
+#: ../heateor-login.php:153
+msgid "Small Avatar Url"
+msgstr ""
+
+#: ../heateor-login.php:157
+msgid "Large Avatar Url"
+msgstr ""
+
+#: ../heateor-login.php:161
+msgid ""
+"Do not fetch and update social avatar from my profile, next time I Social "
+"Login"
+msgstr ""
+
+#: ../heateor-login.php:165
+msgid "Update social avatar, next time I Social Login"
+msgstr ""
+
+#: ../heateor-login.php:280
+msgid "Email address is not valid"
+msgstr ""
+
+#: ../heateor-login.php:283
+msgid "This email already exists. Please specify another email"
+msgstr ""
+
+#: ../heateor-login.php:294 ../heateor-login.php:413
+msgid "Email"
+msgstr ""
+
+#: ../heateor-login.php:297 ../heateor-login.php:416
+msgid "Submit"
+msgstr ""
+
+#: ../heateor-login.php:721
+msgid "Click to toggle help"
+msgstr ""
+
+#: ../heateor-login.php:762
+msgid "Please enter a valid email address. You might be required to verify it."
+msgstr ""
+
+#: ../heateor-login.php:813
+msgid "Add-Ons"
+msgstr ""
+
+#: ../heateor-login.php:814
+msgid "Support Documentation"
+msgstr ""
+
+#: ../heateor-login.php:815
+msgid "Settings"
+msgstr ""
+
+#: ../heateor-login.php:835
+msgid "Thanks for installing Heateor Login plugin"
+msgstr ""
+
+#: ../heateor-login.php:837
+msgid "Configure the Plugin"
+msgstr ""
+
+#: ../heateor-login.php:849
+msgid ""
+"Update \"Social Login Buttons\" add-on for compatibility with current "
+"version of Heateor Login"
+msgstr ""
+
+#: ../heateor-login.php:885
+msgid "Delete Social Profile"
+msgstr ""
+
+#: ../heateor-login.php:898
+msgid "Click to delete social profile data"
+msgstr ""
+
+#: ../heateor-login.php:898
+msgid "Delete"
+msgstr ""
+
+#: ../heateor-login.php:914
+msgid "Deleting"
+msgstr ""
+
+#: ../heateor-login.php:924
+msgid "Deleted"
+msgstr ""
+
+#: ../heateor-login.php:926
+msgid "Something bad happened"
+msgstr ""
+
+#: ../shortcode.php:17
+msgid "Logout"
+msgstr ""
+
+#: ../widget.php:10
+msgid "Heateor Facebook Login"
+msgstr ""
+
+#: ../widget.php:12
+msgid ""
+"Let visitors login/register at your website using their Facebook account"
+msgstr ""
+
+#: ../widget.php:42
+msgid "Log Out"
+msgstr ""
+
+#: ../widget.php:66
+msgid "Login with your Social Account"
+msgstr ""
+
+#: ../widget.php:77
+msgid "Title (before login):"
+msgstr ""
+
+#: ../widget.php:79
+msgid "Title (after login):"
+msgstr ""
+
+#: ../widget.php:81
+msgid "Before widget content:"
+msgstr ""
+
+#: ../widget.php:83
+msgid "After widget content:"
+msgstr ""
+
+#: ../widget.php:86
+msgid "Hide for logged in users:"
+msgstr ""
